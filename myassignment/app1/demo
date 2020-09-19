@@ -1,0 +1,6 @@
+touch app1/base.html
+touch app1/confirm_delete.html
+touch app1/edit.html
+touch app1/index.html
+touch app1/create.html
+touch app1/contact-detail.html
